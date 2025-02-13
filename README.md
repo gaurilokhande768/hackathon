@@ -77,7 +77,7 @@ This project simulates a 12-digit display where each digit randomly changes in r
 ## 👥 Contributors
 - [Om Kuthe](https://github.com/OmKuthe)
 - [Anurag Borkar](https://github.com/anuragborkar2005)
-- [Gauri Lokhande] (https://github.com/gaurilokhande768)
+- [Gauri Lokhande](https://github.com/gaurilokhande768)
 ```
 
 I hope you find this updated version more engaging! 😊 Happy coding! 🚀
